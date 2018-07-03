@@ -1,0 +1,24 @@
+{
+  "books": [
+    { "id": 1, "title": "Learning JavaScript, Second Edition", "authors": [1, 3, 6] },
+    { "id": 2, "title": "Programming JavaScript Applications", "authors": [2] },
+    { "id": 3, "title": "Designing REST Web APIs", "authors": [1, 2, 4] },
+	{ "id": 4, "title": "Functional Programming in Scala", "authors": [4,5] },
+	{ "id": 5, "title": "Object-Oriented and Functional Programming", "authors": [4,5] },
+	{ "id": 6, "title": "Functional Programming in Scala", "authors": [4,5] },
+	{ "id": 7, "title": "Angular with Typescript", "authors": [4,5] },
+	{ "id": 8, "title": "Angular 5", "authors": [4,5] },
+	{ "id": 9, "title": "Bootstrap for Beginners ", "authors": [4,5] },
+	{ "id": 10,"title": "Build a Microservice", "authors": [4,5] },
+	{ "id": 11,"title": "Learn Microservices with Spring Boot", "authors": [4,5] }
+  ],
+  "authors": [
+    { "id": 1, "name": "Paul Alexander"},
+    { "id": 2, "name": "Karim Chiusano" },
+	{ "id": 3, "name": "Vladimir Bauer" },
+	{ "id": 4, "name": "Nick Biggins" },
+	{ "id": 5, "name": "Cay Payne" },
+	{ "id": 6, "name": "Bandana Horstmann" },
+	{ "id": 6, "name": "Anna Burt" }
+  ]
+}
