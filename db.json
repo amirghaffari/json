@@ -4,13 +4,13 @@
     { "id": 2, "title": "Programming JavaScript Applications", "authors": [2] },
     { "id": 3, "title": "Designing REST Web APIs", "authors": [1, 2, 4] },
 	{ "id": 4, "title": "Functional Programming in Scala", "authors": [4,5] },
-	{ "id": 5, "title": "Object-Oriented and Functional Programming", "authors": [4,5] },
-	{ "id": 6, "title": "Functional Programming in Scala", "authors": [4,5] },
-	{ "id": 7, "title": "Angular with Typescript", "authors": [4,5] },
-	{ "id": 8, "title": "Angular 5", "authors": [4,5] },
-	{ "id": 9, "title": "Bootstrap for Beginners ", "authors": [4,5] },
-	{ "id": 10,"title": "Build a Microservice", "authors": [4,5] },
-	{ "id": 11,"title": "Learn Microservices with Spring Boot", "authors": [4,5] }
+	{ "id": 5, "title": "Object-Oriented and Functional Programming", "authors": [1] },
+	{ "id": 6, "title": "Functional Programming in Scala", "authors": [5,6] },
+	{ "id": 7, "title": "Angular with Typescript", "authors": [4,6] },
+	{ "id": 8, "title": "Angular 5", "authors": [2,4] },
+	{ "id": 9, "title": "Bootstrap for Beginners ", "authors": [3] },
+	{ "id": 10,"title": "Build a Microservice", "authors": [2,5] },
+	{ "id": 11,"title": "Learn Microservices with Spring Boot", "authors": [3,4] }
   ],
   "authors": [
     { "id": 1, "name": "Paul Alexander"},
